@@ -1,0 +1,55 @@
+WA_red WA_green WA_blue
+NT_red NT_green NT_blue
+SA_red SA_green SA_blue
+Q_red Q_green Q_blue
+NSW_red NSW_green NSW_blue
+V_red V_green V_blue
+T_red T_green T_blue
+-WA_red -WA_green 0
+-WA_red -WA_blue 0
+-WA_green -WA_blue 0
+-NT_red -NT_green 0
+-NT_red -NT_blue 0
+-NT_green -NT_blue 0
+-SA_red -SA_green 0
+-SA_red -SA_blue 0
+-SA_green -SA_blue 0
+-Q_red -Q_green 0
+-Q_red -Q_blue 0
+-Q_green -Q_blue 0
+-NSW_red -NSW_green 0
+-NSW_red -NSW_blue 0
+-NSW_green -NSW_blue 0
+-V_red -V_green 0
+-V_red -V_blue 0
+-V_green -V_blue 0
+-T_red -T_green 0
+-T_red -T_blue 0
+-T_green -T_blue 0
+-WA_red -NT_red
+-WA_green -NT_green
+-WA_blue -NT_blue
+-WA_red -SA_red
+-WA_green -SA_green
+-WA_blue -SA_blue
+-SA_red -NSW_red
+-SA_green -NSW_green
+-SA_blue -NSW_blue
+-SA_red -Q_red
+-SA_green -Q_green
+-SA_blue -Q_blue
+-SA_red -V_red
+-SA_green -V_green
+-SA_blue -V_blue
+-NT_red -Q_red
+-NT_green -Q_green
+-NT_blue -Q_blue
+-NT_red -SA_red
+-NT_green -SA_green
+-NT_blue -SA_blue
+-Q_red -NSW_red
+-Q_green -NSW_green
+-Q_blue -NSW_blue
+-NSW_red -V_red
+-NSW_green -V_green
+-NSW_blue -V_blue
